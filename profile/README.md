@@ -18,5 +18,10 @@
 
 > 基于 OneBot 11 标准的 Python 异步 QQ 机器人框架
 
-由 [Iridium](https://github.com/JerryZRF) 开发
+由 [mom0ka27](https://github.com/mom0ka27) 开发
 
+### [Nishikigi](https://github.com/Web-Art-Online/Nishikigi)
+
+> 一个自动化的校墙 Bot
+
+由 [mom0ka27](https://github.com/mom0ka27) & [Carbene](https://github.com/sx120609) 开发
